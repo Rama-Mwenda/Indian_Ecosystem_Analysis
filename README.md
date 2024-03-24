@@ -1,9 +1,6 @@
 # Indian Start-up Ecosystem:
 ## A Data Analysis Project 
 
-## Scenario 
-
-
 ## Project Structure
 The project uses the CRISP-DM Framework for the analysis. 
 Our first part covers the Business Understanding and external research to provide a base for our work and then we head to the second phase where we look at the Datasets we have and analyse the ecosystem fully to generate insights.
