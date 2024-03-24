@@ -1,13 +1,13 @@
 # Indian Start-up Ecosystem:
 ## A Data Analysis Project 
 
-## Scenario 
-
+## Scenario
+Your company executives have an interest in investing in the Indian Startup Ecosystem. You have been tasked with analysing the available data from 2018 to 2021 and advice on the best course of action for the company.
 
 ## Project Structure
-The project uses the CRISP-DM Framework for the analysis. 
+The project uses the CRISP-DM Framework. 
 Our first part covers the Business Understanding and external research to provide a base for our work and then we head to the second phase where we look at the Datasets we have and analyse the ecosystem fully to generate insights.
-We finalise by a conclsuion of what our analysis has uncovered and propose a course of action in the 
+We finalise by a conclsuion of what our analysis has uncovered and propose a course of action for the company 
 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
@@ -29,8 +29,6 @@ We finalise by a conclsuion of what our analysis has uncovered and propose a cou
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -69,7 +67,6 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
@@ -150,8 +147,8 @@ Project Link: [https://github.com/Rama-Mwenda/Indian_Ecosystem_Analysis](https:/
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
-
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+ 
+ Resources I found helpful when building the project.
 
 * [Effective Pandas by Matt Harrison](https://www.youtube.com/watch?v=zgbUk90aQ6A&t=4084s)
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
