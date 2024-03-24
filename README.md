@@ -21,6 +21,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
+    <li><a href="#usage">Contributing</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -101,6 +102,19 @@ _Below is an example of how you can install and run the notebook. This project r
 4. Run the notebook
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- USAGE -->
+## Usage
+The Analysis was deployed on a powerbi dashboard like below. The dashboard is interactive and can be used to gather insights.
+
+![Screenshot_24-3-2024_164616_app powerbi com](https://github.com/Rama-Mwenda/Indian_Ecosystem_Analysis/assets/143324676/d9cdf0ae-4b9d-44b9-a63a-5a7bb54d7481)
+
+![Screenshot_24-3-2024_164655_app powerbi com](https://github.com/Rama-Mwenda/Indian_Ecosystem_Analysis/assets/143324676/6923270c-b2c0-4a63-b9ab-559b543ecb24)
+
+![Screenshot_24-3-2024_164720_app powerbi com](https://github.com/Rama-Mwenda/Indian_Ecosystem_Analysis/assets/143324676/76837cab-9227-4a16-b34a-80e4e4ad92a7)
+
+![Screenshot_24-3-2024_164733_app powerbi com](https://github.com/Rama-Mwenda/Indian_Ecosystem_Analysis/assets/143324676/874c5a08-d375-4879-a0b5-f386252da5a3)
 
 
 
