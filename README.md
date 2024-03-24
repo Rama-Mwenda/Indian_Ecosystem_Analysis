@@ -1,14 +1,6 @@
 # Indian Start-up Ecosystem:
 ## A Data Analysis Project 
 
-## Scenario
-Your company executives have an interest in investing in the Indian Startup Ecosystem. You have been tasked with analysing the available data from 2018 to 2021 and advice on the best course of action for the company.
-
-## Project Structure
-The project uses the CRISP-DM Framework. 
-Our first part covers the Business Understanding and external research to provide a base for our work and then we head to the second phase where we look at the Datasets we have and analyse the ecosystem fully to generate insights.
-We finalise by a conclsuion of what our analysis has uncovered and propose a course of action for the company 
-
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 
@@ -41,9 +33,13 @@ We finalise by a conclsuion of what our analysis has uncovered and propose a cou
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-The CEO of my company is trying to venture into the Indian start-up ecosystem. As the 
-data expert of the copmany, I have been tasked to investigate the ecosystem and propose 
-the best course of action. 
+### Scenario
+Your company executives have an interest in investing in the Indian Startup Ecosystem. You have been tasked with analysing the available data from 2018 to 2021 and advice on the best course of action for the company.
+
+### Project Structure
+The project uses the CRISP-DM Framework. 
+Our first part covers the Business Understanding and external research to provide a base for our work and then we head to the second phase where we look at the Datasets we have and analyse the ecosystem fully to generate insights.
+We finalise by a conclsuion of what our analysis has uncovered and propose a course of action for the company  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
