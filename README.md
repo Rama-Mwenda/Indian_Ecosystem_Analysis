@@ -48,14 +48,14 @@ We finalise by a conclsuion of what our analysis has uncovered and propose a cou
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+These are the key libraries used in the project.
 
+* Jupyter Notebook
 * Pandas
 * Seaborn
 * Matplotlib
-* Python
-* Jupyter Notebook
 * Thefuzz
+* PowerBI
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -68,7 +68,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+This is a list things you need to run the notebook and how to install them.
 
 * Python V3.11.6
 ```pip install Python```
