@@ -148,7 +148,7 @@ Distributed under the  GNU GENERAL PUBLIC LICENSE. See `LICENSE.txt` for more in
 <!-- CONTACT -->
 ## Contact
 
-Ramadhan Mwenda - [www.linkedin.com/in/ramadhanmwenda](www.linkedin.com/in/ramadhanmwenda) - ramadhanmwenda@azubiafrica.org
+Ramadhan Mwenda - [www.linkedin.com/in/rama-mwenda](www.linkedin.com/in/rama-mwenda) - ramadhanmwenda@azubiafrica.org
 
 Project Link: [https://github.com/Rama-Mwenda/Indian_Ecosystem_Analysis](https://github.com/Rama-Mwenda/Indian_Ecosystem_Analysis)
 
